@@ -1,0 +1,114 @@
+# Meta Data for SEO
+
+## Homepage
+title = "TC Essentials"
+titleSeparator = "-"
+titleAddition = "Optimal Torn City Guide to help new players get started."
+description = "TC Essentials is open source and constantly updated."
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = ["doks.png"]
+ogLocale = "en_US"
+domainTLD = "tc-essentials.oran.pw"
+titleHome = "TC-Essentials"
+
+## Twitter Cards
+twitterSite = "@tornrpg"
+twitterCreator = "@tornrpg"
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "Doks"
+schemaAuthor = "Henk Verlinde"
+schemaAuthorTwitter = "https://twitter.com/tornrpg"
+schemaAuthorLinkedIn = ""
+schemaAuthorGitHub = "https://github.com/oranweb"
+schemaLocale = "en-US"
+schemaLogo = "logo-doks.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "doks.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = ""
+schemaLinkedIn = ""
+schemaGitHub = ""
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Images
+imageResponsive = true
+imageConvertTo = "webp"
+imageImageSizes = ["480","720","1080","1280","1600","2048"]
+singleSize = false
+imageAddClass = "img-fluid lazyload blur-up"
+
+### Image template
+defaultImage = "default-image.png" # put in `./assets/images/`
+fillImage = "1270x740 Center" # normalize image size
+
+# Footer
+footer = "Contact ORAN for any Issues. <a class=\"text-muted\" href=\"https://www.torn.com/forums.php#/p=threads&f=61&t=16319240&b=0&a=0&start=0&to=23226336\">You are viewing Version 1.2 </a> </a>"
+
+# Feed
+copyRight = "Copyright (c) 2023 OranWeb"
+
+# Alert
+alert = false
+alertDismissable = true
+# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
+alertText = "Hi there, If you notice any issues please contact ORAN via chat or post in the forum thread <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Feedback is always welcome. Thanks!</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/OranWeb/TCEssentials"
+docsRepoBranch = "master"
+docsRepoSubPath = ""
+editPage = true
+lastMod = false
+
+[sections]
+  sectionNav = ["docs", "guides"]
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  searchSectionsShow = []
+  searchSectionsIndex = []
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = true
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = false
+  navbarSticky = true
+  toTopButton = true
+  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true
