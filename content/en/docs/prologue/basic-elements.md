@@ -26,7 +26,7 @@ The sidebar displays icons for money, points, merits, and bars for energy, nerve
 Icons are an essential part of the sidebar since they display all the status's of your character, for example if your under drug cooldown or booster cooldown the Icons will display it. You can edit their positioning [here](https://www.torn.com/preferences.php#tab=your-icons). Make sure you pay close attention to your Icons. 
 
 ### Money
-The Amount displayed is cash on Hand, It can be used to make purchases in the city shops and Item Market, it can also be stolen by other players by attacking and mugging you. If you come across substantial amount of money you should get it to safety as soon as possible to avoid losing it to mugs. There are multiple ways to safely store cash as well as to earn a lot of it we will explore them later in this guide.  
+The Amount displayed is cash on Hand, It can be used to make purchases in the city shops and Item Market, it can also be stolen by other players by attacking and mugging you. If you come across substantial amount of money you should get it to safety as soon as possible to avoid losing it to mugs. There are multiple ways to safely store cash, I have a guide up [here](../../misc-guides/money-storage).
 
 ### Level
 Every action in torn results in gain of experience most of them give very little amount but Attacking and leaving players in the streets give the most, the experience gained is also based on level of the opponent so If you attack and leave a level 100 you'd gain much more compared to leaving a random level 1 noob. 
@@ -71,7 +71,7 @@ Events display everything that happens to you in chronological order, there is a
 
 The awards button take you to the awards page that display Honorbars, Medals and Merits allocation. play around with different honorbars choose the one you like, other players can see the equipped honorbar only, while Medals are public information 
 
-![](https://i.imgur.com/M8tsIZ4.png) 
+![](essentials/oran-medal.png) 
 
 ## Areas 
 ### Home 
@@ -100,7 +100,7 @@ There are 2 modes available for the City, Quick Links and City Map
 
 Items spawn on the City Map, they stay there indefinitely till they are claimed if your lucky you might find big ticket items like Stat Enhancers, Cesiums or Hazmat Suits. Check their value in the Item Market and sell them to a trader, please do not use Stat Enhancers you'd be essentially throwing away a $450.000.000 worth of item. 
 
-![](https://i.imgur.com/7ruNzGX.png) 
+![](essentials/tc-city-find.png) 
 
 Quick Links can be used to quickly open a place in the city. feel free to spend some time exploring the city. 
 
@@ -172,7 +172,7 @@ Do your George Missions they are quite straight forward If you have any question
 
 Once your done with George missions wait for a day to unlock and receive the Next agents Anonymous and Duke, at the moment Anonymous has 1 single mission and Duke will keep regenerating the same ones. New Mission Agent Amanda may be released some time in the future.
 
-![](https://i.imgur.com/7FYwFX0.png) 
+![](essentials/duke-missions.png) 
 
 ### Newspaper 
 
@@ -230,7 +230,7 @@ Organized crimes money usually goes to the faction to be spent on armory or supp
 
 ### Recruit Citizens
 
-You can share your referral link with your friends and bring them into the game to receive 250 Points + 31 Donator Days + 2 Special Items there are also merits associated with this
+You can share your referral link with your friends and bring them into the game to receive 250 Points + 31 Donator Days + 2 Special Items for every 10 levels they gain. there are also merits associated with this. 
 
 ![](https://i.imgur.com/41kCkVo.png)
 
@@ -240,7 +240,7 @@ Calendar neatly displays all events and competitions during the year. make sure 
 
 ### Community Events
 
-[Community Events](https://www.torn.com/forums.php#/p=forums&f=62&b=0&a=0) are run by staff or admin mostly during the holiday seasons there are baking, memes, poems, card design and many other contests. Rewards are also pretty nice and anyone can participate regardless of age or level. If you feel like any of them are for you send in your entries. 
+[Community Events](https://www.torn.com/forums.php#/p=forums&f=62&b=0&a=0) are run by staff or admin mostly during the holiday seasons there are baking, memes, poems, card design and many other contests. Rewards are HUGE and anyone can participate regardless of age or level. If you feel like any of them are for you send in your entries. 
 
 ## Lists 
 

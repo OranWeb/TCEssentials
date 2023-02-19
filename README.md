@@ -32,13 +32,13 @@ npm install
 ```
 that should install all dependencies 
 
-### to develop locally 
+### To develop locally 
 
 ```bash
 npm run start 
 ```
 
-### to create production build
+### To create production build
 
 ```bash
 npm run build 
@@ -54,7 +54,7 @@ While we recommend deployment to Netlify, Cloudflare Pages / Vercel or any stati
 
 Pull requests of code changes or text additions are always welcome. 
 
-## usage/sharing
+## Usage/sharing
 
 You are free to copy any part of the website, use it in your own guide or copy paste and throw it into your faction forums Without providing credits to me or linking to website. I wrote them so it would help players so you are free to share it wherever in whatever form you want to. 
 
