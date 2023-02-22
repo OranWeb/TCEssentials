@@ -8,16 +8,79 @@
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2" style="display: block;"  href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" role="button">{{ i18n "get-started" }}</a>
     <!---  <p class="meta">TC Guide is opensource and available on <a href="https://github.com/h-enk/doks">GitHub.</a> Useful Push Requests are welcome. </p> ---->
-     <p class="meta">Chat ORAN in torn for any issues or post on the <a href="https://discord.gg/JrBpEsQB5g">Thread</a>. </p>
+     <p class="meta">Chat ORAN in Torn for any issues or post on the <a href="https://www.torn.com/forums.php#/p=threads&f=61&t=16319240">Thread</a>. </p>
      <p> <a href="https://discord.gg/JrBpEsQB5g">Discord</a> server is open for any game related questions. </p>
     </div>
   </div>
 </section>
 
 
+  <section class="section section-sm">
+    <div class="container">
+      <div class="row justify-content-center text-center">
+        <div class="col-lg-5">
+          <a href="/docs//prologue/introduction"><h2 class="h4">Introduction</h2></a>
+          <p>Introduction to torn city and some tips to make your life easier.</p>
+        </div>
+        <div class="col-lg-5">
+          <a href="/docs/prologue/basic-elements"><h2 class="h4">Basic Elements</h2></a>
+          <p>Information on all basic elements and some mini guides on them.</p>
+        </div>
+        <div class="col-lg-5">
+          <a href="/docs/prologue/level15"><h2 class="h4">Level 15 Guide</h2></a>
+          <p>Importance of Level 15 and a guide to help you reach there.</p>
+        </div>
+      </div>
+      <div class="row justify-content-center text-center">
+        <div class="col-lg-5">
+          <a href="/docs/prologue/after15"><h2 class="h4">After Level 15</h2></a>
+          <p>Next steps after hitting level 15 and the grind of flower/plushie running.</p>
+        </div>
+        <div class="col-lg-5">
+          <a href="/docs/misc-guides/factions-new-players/"><h2 class="h4">Factions for New Players</h2></a>
+          <p>List of factions accepting new players</p>
+        </div>
+        <div class="col-lg-5">
+          <a href="/docs/misc-guides/money-storage/"><h2 class="h4">Money Storage Guide</h2></a>
+          <p>Introduction to mugging and Guide to storing your money.</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
 
 
+
+<section class="section section-sm mt-3 pt-3">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-lg-10 col-xl-8">
+        <h2 class="h3 mt-3 text-center">Latest Articles from TC Essentials</h2>
+        <div class="card-list">
+        {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "blog")  -}}
+        <div class="card">
+          <div class="card-body">
+            <h3><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}{{ with .Params.emoji -}}&nbsp;{{ . | emojify }}{{ end -}}</a></h3>
+            <p>{{ .Params.lead | safeHTML }}</p>
+            {{ partial "main/blog-meta.html" . -}}
+          </div>
+        </div>
+        {{ end -}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-sm mt-n3 mb-3">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-lg-10 col-xl-8">
+        {{ partial "sidebar/join-discord.html" . -}}
+      </div>
+    </div>
+  </div>
+</section>
 
 
 {{ end }}

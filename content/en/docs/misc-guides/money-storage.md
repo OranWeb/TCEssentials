@@ -88,14 +88,16 @@ There is also reverse sell mug in which the sellers of points mugs you right aft
 
 ### Items 
 
-Please beaware of sell mug see the end statement over at [Points](#points)
+Please beware of sell mug see the end statement over at [Points](#points)
 Some good to items to store cash are:- 
 
 1. Xanax - most traders pay close to market and they hold up value nicely
 2. Donator Packs - DPs are known to hold value really well and they can be Instantly sold to Pawn Shop. look at "Sell" under item info 
 
 ![](ghost-trade/dp-price.png) 
+
 3. Temp Items - Grenades, HEGs can be instantly sold for 7k and 15k each to the NPC shops
+
 4. Type 98 Anti Tank - they sell close to 17M in market and can be instantly sold to NPC shops for 17M
 
 ### Property Vaults 

@@ -96,9 +96,9 @@ Ammo Locker can also be accessed on the items page, make sure head over there wh
 
 ### City
 
-There are 2 modes available for the City, Quick Links and City Map
+There are 2 views available for the City, Quick Links and City Map
 
-Items spawn on the City Map, they stay there indefinitely till they are claimed if your lucky you might find big ticket items like Stat Enhancers, Cesiums or Hazmat Suits. Check their value in the Item Market and sell them to a trader, please do not use Stat Enhancers you'd be essentially throwing away a $450.000.000 worth of item. 
+Items spawn on the City Map, they stay there indefinitely till they are claimed if your lucky you might find big ticket items like Stat Enhancers, Cesiums or Hazmat Suits. Check their value in the Item Market and sell them to a trader, please do not use Stat Enhancers (dumbbells, boxing gloves, skateboard, parachutes) you'd be essentially throwing away a $450.000.000 worth of item. 
 
 ![](essentials/tc-city-find.png) 
 
@@ -122,7 +122,7 @@ Gym is where you train your stats, it costs energy and a small amount of happine
 
 This is the page where you will manage the properties that you and your spouse own or rent. As a beginner it is recommended that you rent properties rather than out right buying them, before level 15 it may be a good idea to rent anything upto a palace or castle ofcourse if you can afford an Island then sure go for it
 
-**Once you hit level 15 an Island is a Must since it enables you to fly quickly overseas and bring 10 more items this translates to more income per minute per trip.**
+**Once you hit level 15, living in a Private island is highly recommended, as with the “Air Strip and Pilot” upgrade, you would be able to travel to destinations, 30% faster and bring back 10 extra items, translating to more profit for you**
 
 Path to rental market: City -> Estate Agents -> [Rental Market](https://www.torn.com/properties.php?step=rentalmarket)
 
@@ -170,7 +170,7 @@ Something to note is Arsons do result in a failure - Hospitalizations not jail, 
 
 Do your George Missions they are quite straight forward If you have any questions feel free to ask in the new players chat. 
 
-Once your done with George missions wait for a day to unlock and receive the Next agents Anonymous and Duke, at the moment Anonymous has 1 single mission and Duke will keep regenerating the same ones. New Mission Agent Amanda may be released some time in the future.
+Once your done with George missions you need to hit level 5 and then wait for a day to unlock and receive the Next agents Anonymous and Duke, at the moment Anonymous has 1 single mission and Duke will keep regenerating the same ones. New Mission Agent Amanda may be released some time in the future.
 
 ![](essentials/duke-missions.png) 
 
@@ -184,19 +184,19 @@ Interesting articles are always welcome from players so If you have an article w
 
 If you fail a crime and get jailed you get sent to the city jail don't worry about it though the chances are you will quickly be out, busted by a player. Why? because there are merits attached to busting & Bailing players out of jail. You can also use the Lawyer Business Card item to instantly get out of jail (adds one hour of booster cooldown)
 
-My personal suggestion is to avoid busting other players till your atleast 30 or 35 NNB since thats when your success rate starts to go up, another thing to note is failing a bust removes a tiny amount of CE so don't worry about failing busts. There is also a cooldown attached to busting I will list a decent guide below to further read on this topic
+My personal suggestion is to avoid busting other players till your atleast 30 or 35 NNB since thats when your success rate starts to go up, another thing to note is failing a bust removes a tiny amount of CE so don't worry about failing busts. There is also a cooldown attached to busting I will list a decent guide below to further read on this topic.
 
 [Advanced Jail Bust Guide by Nosy](https://www.torn.com/forums.php#/p=threads&f=61&t=16192039) 
 
 
 ### Hospital 
 
-Being attacked by other players or losing to them gets you sent to the hospital, you can use Medical Items like Small First Aid Kit, First Aid Kit, Morphine apart from these also Blood Bags which require [Intro to Biochemistry](https://www.torn.com/education.php#/step=view_cat&cat=4&id=34) -> [Intravenous Therapy](https://www.torn.com/education.php#/step=view_cat&cat=4&id=127) education to unlock.   
+Being attacked by other players or losing to them gets you sent to the hospital, you can use Medical Items like Small First Aid Kit, First Aid Kit, Morphine apart from these also Blood Bags which require [Intro to Biochemistry](https://www.torn.com/education.php#/step=view_cat&cat=4&id=34) -> [Intravenous Therapy](https://www.torn.com/education.php#/step=view_cat&cat=4&id=127) education to unlock. Make sure you stock up on some of them because you cannot access Item Market from the hospital.
 
 blood bags usage guide 
 ![](https://i.oran.pw/images/cu9KW.gif)
 
-You can also be revived by other players it generally costs a xanax or 1 million dollars to be revived. 
+You can also be revived by other players it generally costs a xanax or 1 million dollars to be revived but some do it for free (to get 1,000 revives merit) you can request a "freevive" in Trade chat. 
 
 ### Casino
 
