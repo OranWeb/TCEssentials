@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: ""
+    parent: "misc-guides"
     identifier: "money-making-d3b0dbd45ca59c989d2cdc5057d76705"
 weight: 640
 toc: true
