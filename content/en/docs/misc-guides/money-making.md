@@ -1,6 +1,6 @@
 ---
 title: "Money Making Guide"
-description: ""
+description: "Guide to making tons of money"
 lead: ""
 date: 2023-02-24T20:31:52+08:00
 lastmod: 2023-02-24T20:31:52+08:00
