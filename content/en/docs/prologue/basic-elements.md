@@ -18,7 +18,7 @@ toc: true
 After familiarizing yourself with the rules, you can proceed to read the rest of this page.
 
 ## Sidebar Top 
-![](https://i.imgur.com/bAAPKbP.png) 
+![](ghost-trade/sidebar-top.png) 
 
 The sidebar displays icons for money, points, merits, and bars for energy, nerve, happiness, and more. It also provides easy access to quick links for the city and various locations within it.
 
@@ -27,6 +27,8 @@ Icons are an essential part of the sidebar since they display all the status's o
 
 ### Money
 The Amount displayed is cash on Hand, It can be used to make purchases in the city shops and Item Market, it can also be stolen by other players by attacking and mugging you. If you come across substantial amount of money you should get it to safety as soon as possible to avoid losing it to mugs. There are multiple ways to safely store cash, I have a guide up [here](../../misc-guides/money-storage).
+
+I have a money making guide that you can read [here](../../misc-guides/money-making)
 
 ### Level
 Every action in torn results in gain of experience most of them give very little amount but Attacking and leaving players in the streets give the most, the experience gained is also based on level of the opponent so If you attack and leave a level 100 you'd gain much more compared to leaving a random level 1 noob. 
@@ -232,7 +234,7 @@ Organized crimes money usually goes to the faction to be spent on armory or supp
 
 You can share your referral link with your friends and bring them into the game to receive 250 Points + 31 Donator Days + 2 Special Items for every 10 levels they gain. there are also merits associated with this. 
 
-![](https://i.imgur.com/41kCkVo.png)
+![](ghost-trade/donator-recruit.png)
 
 ### Calendar
 

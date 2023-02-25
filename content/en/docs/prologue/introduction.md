@@ -12,7 +12,7 @@ menu:
 weight: 100
 toc: true
 ---
-![enable darkmode](https://i.imgur.com/mlBwUp6.png)
+![enable darkmode](ghost-trade/enable-darkmode.png)
 ## Welcome
 
 Welcome to Torn City! Before we begin, it's important to note that Torn is a long-term game that doesn't have an "end" or a finish line. Instead, it offers a form of delayed gratification that may seem unusual at first but is what makes the game enjoyable and unique. While there is no instant gratification, the game provides a satisfying sense of accomplishment over time. So, get ready for a rewarding journey in Torn City!
