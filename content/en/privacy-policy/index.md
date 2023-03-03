@@ -20,11 +20,9 @@ __TLDR__: We do not use cookies and we do not collect any personal data. like li
 
 ### Information we collect and what we use it for
 
-~~No Analytics software is run on this website by the owner however all data is passed through cloudflare's servers (which is used for DNS and DDOS Mitigation) Please refer to their Privacy Policy.~~
+Cloudflare is only used to manage DNS on non-proxy mode. Please read their [Privacy Policy](https://www.cloudflare.com/privacypolicy/)
 
-Currently TC Essentialls is hosted on Netlify till an issue with cloudflare config file is fixed. **Netlify offers a paid analytics plan for 9 bucks per month and I'm not paying for it so essentially no analytics data is collected at all.** 
-
-If any form of Analytics Software is Run in the future It will be expressely communicated like bro I will put up a huge ass warning somewhere in the forums. 
+TC Essentialls is hosted on Netlify. Netlify offers a paid analytics plan for 9 bucks per month and I'm not paying for it, **however since March 3 2023 a self hosted instance of Plausible Analytics is running on all pages for analytics purpose.**  You can read plausible anaytics data policy [here](https://plausible.io/data-policy)
 
 No API Keys or User Details including passwords, usernames etc are collected, like bruh tis jus a static website on the interwebs we aint gonna ask you for your mothers maiden name or someth. 
 
