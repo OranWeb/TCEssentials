@@ -44,7 +44,7 @@ As such you can buy a Donator Pack from other players in the [Item market](https
 
 ### Need Help? stuck somewhere?
 
-{{< alert icon="👉" text="It is Normal to feel lost or have questions in your Torn Journey, Feel free to Join Our Discord Server and ask in #Question-Answer Channel. Torn is a game where curiosity doesn't kill the cat but rather results in a reward." />}}
+It is Normal to feel lost or have questions in your Torn Journey, Feel free to Join Our [Discord Server](https://discord.gg/JrBpEsQB5g) and ask in #Question-Answer Channel. Torn is a game where curiosity doesn't kill the cat but rather results in a reward.
 
 ## Go further
 

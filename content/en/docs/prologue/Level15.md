@@ -25,7 +25,7 @@ Levelling targets are accounts that have been abandoned, are of high levels and 
 
 ## Initial Preparation 
 
-Note: I am listing cheap stuff here, you can buy the more expensive stuff if you can afford to. (that would be Diamond bladed knife and full combat set) 
+*Note: I am listing cheap stuff here, you can buy the more expensive stuff if you can afford to. (that would be Diamond bladed knife and full combat set)*
 
 You will need to train your battle stats in the gym to a certain amount first this could take you anywhere from a day to a whole week, you will also need to buy a decent weapon either from Bits & Bobs or a Macana from Item Market they cost like 100k and are worth it. We are going to skip on a gun for now. 
 
@@ -33,13 +33,13 @@ For armor grab a full body armor (60k), a Leather or Construction Helmet, Leathe
 
 ## The Housing Situation
 
-You will need to rent and move into a better house anything from a Palace to a Island whatever you can afford to rent, this is only temporary for you to train you will be renting an island later anyways so go for something cheap with less days on the [rental market](https://www.torn.com/properties.php?step=rentalmarket#/). 
+You will need to rent and move into a better house anything from a Palace to a Island whatever you can afford to rent, this is only temporary for you to train 7 days rental is most likely enough, you will be renting an island later anyways so go for something cheap with less days on the [rental market](https://www.torn.com/properties.php?step=rentalmarket#/). 
 
 ## Getting your happy up
 
 Once you've moved in to a better house you will notice your happy hasn't gone to up to max or that it will go up very slowly, there's an easy method to bring your happy up, head over to [Sally's Sweet Shop](https://www.torn.com/shops.php?step=candy) and buy 100 of lollipops if there are none of those then buy Bag of Chocolate Kisses. Candies can also be bought on the [item market](https://www.torn.com/imarket.php#/p=market&cat=candy) if you're willing to pay a bit more for them. 
 
-After procuring the candies head over to the Item Market and buy a [Ecstasy](https://www.torn.com/imarket.php#/p=market&cat=drugs), Ecstasy is a drug that will double your happiness on usage. 
+After procuring the candies head over to the Item Market and buy an [Ecstasy](https://www.torn.com/imarket.php#/p=market&cat=drugs), Ecstasy is a drug that will double your happiness on usage. 
 
 Now that you have all the training supplies you need, use as many lollipops as you can (they add booster cooldown) then once it says you've run out of booster cooldown use the ecstasy (ecstasy adds drug cooldown) this will double your current happiness. Head over to the gym and train your stats
 
@@ -47,9 +47,11 @@ My personal recommendation is to get your Strength, Defense and Speed to atleast
 
 ## The Lists of Levelling Targets 
 
-There are variety of lists with decent levelling targets, one of the most popular is run by baldr on his basic advice guide and he does a fantastic job at it, which is why I have not compiled a list but rather I direct link to his guide. 
+There are variety of lists with decent levelling targets, one of the most popular is run by baldr on his basic advice guide and he does a fantastic job at it, which is why I have not compiled a list but rather I direct link to his list on his fantastic guide. 
 
 [Baldr's Levelling Targets](https://www.torn.com/forums.php#/p=threads&f=61&t=16034448&to=18301173) - there are 3 lists here all low statters 
+
+Triplicant also has a list [here](https://www.torn.com/forums.php#/p=threads&f=61&t=16070031) but its no longer updated due to his passing irl. If baldr's targets are all hospitalized then go through some on this one. 
 
 {{< alert icon="👉" text="Pro Tip: you can click and hold on the target's name to see their hospital/okay status." />}}
 

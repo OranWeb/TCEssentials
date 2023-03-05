@@ -63,4 +63,3 @@ Most people forget to hire a pilot its an easy mistake to make, Pilot is not par
 7. sell them for a profit, either in Item Market listing, in your bazaar if you own one or to a Trader. Make sure that you protect yourself while selling your stuff by either self hosping using wrong blood bag, losing a Russian Roulette match or travelling. people can  buy and mug you if your status is 'okay'. 
 
 {{< alert icon="👉" text="Alarms are your best friends in Torn. Always set an alarm or reminder when you fly." />}}
-

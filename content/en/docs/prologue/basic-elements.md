@@ -195,6 +195,15 @@ My personal suggestion is to avoid busting other players till your atleast 30 or
 
 Being attacked by other players or losing to them gets you sent to the hospital, you can use Medical Items like Small First Aid Kit, First Aid Kit, Morphine apart from these also Blood Bags which require [Intro to Biochemistry](https://www.torn.com/education.php#/step=view_cat&cat=4&id=34) -> [Intravenous Therapy](https://www.torn.com/education.php#/step=view_cat&cat=4&id=127) education to unlock. Make sure you stock up on some of them because you cannot access Item Market from the hospital.
 
+Small First Aid Kits remove 20 minutes of hospital time.
+First Aid Kits remove 40 minutes of hospital time.
+Morphines remove 70 minutes of hospital time.
+Blood bags remove 2 hours.
+
+Medical Items also restore life, Small first aid kits restores 5%, First aid kits restores 10%, Morphines restores 15%, and finally blood bags restores 30% of life, this is why I'd highly recommend you do the Intravenous Therapy course.
+
+Using wrong/incompatible blood bag allows you to self hosp, basically hide in the hospital for upto 1 and half hour at a time. This is the cheapest method to do so. 
+
 blood bags usage guide 
 ![](https://i.oran.pw/images/cu9KW.gif)
 
@@ -216,7 +225,7 @@ The way factions are displayed on the factions tab is by battle stats once you g
 
 Once you join a faction it takes 3 days for you to receive perks make sure you read all newsletters sent by the faction and follow any instructions or rules to not get kicked. I have a list of Factions Accepting New Players [Here](../../misc-guides/factions-new-players)
 
-#### to join or not to join a faction
+#### To join or not to join a faction
 
 Sure you could be spending your first week not in a faction not getting any of the benefits they offer and do your own thing, but in my opinion If you receive an invite or find a decent faction above 600k respect willing to take you in you should apply and join them because missing out on important training perks, ability to borrow faction armor/weapons, advice from leaders and fun may not be worth it. Just ensure that the leadership is actively and proactively doing their best to provide you with a good experience and that you are not being taken advantage of. 
 
@@ -296,7 +305,9 @@ This will show up after you join a Company. only the employees of the company ca
 
 These chats only show up when your in hospital, jailed or travelling. I personally consider them useless and keep them disabled but hey you can use it grief or something lol. 
 
-## Time - TCT
+## Misc 
+
+### Time - TCT
 
 Torn City Time or TCT is same as UTC / GMT +0. you can find a decent converter [on this page](https://savvytime.com/converter/utc)
 
@@ -304,3 +315,22 @@ Time can be found on 2 places in Torn, below the friends/enemy lists and also on
 
 ![](https://i.oran.pw/images/wgs74.png)
 
+### NPC Looting
+
+NPCs can be hit and looted for rewards these can be absolute crap to sometimes a weapon worth 3b. Its not just a bad idea but a horrible idea to hit them till you get your stats up, atleast 1m. 
+
+The NPCs have loot levels attached to them, ranging from 1 to 5, they are hit by players once they reach loot level 4. Once your in the attack only hit them when everyone else is hitting so you can avoid being hit by the NPCs due to distraction being activated. Once they are defeated/looted their level resets to 1 again. 
+
+Currently there are 5 lootable NPCs, 
+
+1. Duke [4]
+2. Leslie [15]
+3. Jimmy [19]
+4. Fernando [20]
+5. Tiny [21]
+
+There are also seasonal NPCs, Easter Bunny for example will be available during April and Scrooge during Christmas. 
+
+You can join the loot ranger [discord](https://discord.gg/Ys9ZSWmFXE) to participate in them, all planning and co-ordination is done there. 
+
+Read [Level 15 Guide Next.](../level15)
