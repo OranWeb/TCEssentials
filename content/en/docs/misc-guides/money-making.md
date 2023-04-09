@@ -14,11 +14,11 @@ weight: 640
 toc: true
 ---
 
-Once you have learned how to [store your money safely](../money-storage), you should focus on building your networth and sustaining it. This way, you can reach a point where you are able to comfortably use three Xanax plus a refill every day, as well as train with energy drinks or use FHCs for faction wars without breaking the bank.
+After learning [how to store your money safely](../money-storage), it's essential to focus on building your net worth and sustaining it. Doing so will enable you to reach a point where you can comfortably use three Xanax pills plus a refill every day and train with energy drinks or FHCs for faction wars without breaking the bank.
 
-The more money you have, the more it can earn for you. With this in mind, plan your investments and expenses accordingly. I have divided this guide into sections based on player level, but you don't necessarily need to follow it. You can choose to ignore it entirely. 
+Remember that the more money you have, the more it can earn for you. Hence, plan your investments and expenses wisely. Although I have categorized this guide based on player level, you can disregard it entirely and choose what suits you best.
 
-While reading its extremely important you note that these aren't the only options see what works for you there might be a niche option that you might be good at unknown to others.
+When reading, it's crucial to note that these options aren't exhaustive. Explore and experiment to find your unique approach that works best for you. There might be a niche option that you excel in but is unknown to others.
 
 ## For Newbies 
 
@@ -26,7 +26,7 @@ For players below level 15
 
 ### Selling Losses/Slutting 
 
-Selling losses early in your torn journey is a decent way to make money, only do it to buy supplies you need till you hit level 15. Once your level 15 stop because your energy is much better spent in the gym than selling losses to players and you can earn plenty of money flying. 
+Selling losses early on your journey in Torn can be a decent way to earn some money. However, you should only do it to purchase the necessary supplies until you reach level 15. Beyond that point, it's advisable to stop as your energy would be better utilized in the gym rather than selling losses to other players. At level 15, you can earn a good amount of money by [flying](../../prologue/after15). 
 
 Players buy losses so they can earn merits, you can find them in the [attacking forum](https://www.torn.com/forums.php#/p=forums&f=59&b=0&a=0) ensure you read the thread carefully they might insert weird conditions like using fists only or they may be buying bulk like 10+ only. 
 
