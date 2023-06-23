@@ -53,7 +53,7 @@ Energy is a valuable resource, it can be used to attack (25 per) or trained in t
 
 ### Nerve
 
-Nerve enables you to commit crimes, you should never let it fill up to max, keep doing crimes whenever you can. drink beers to gain nerve they are incredibly cheap and give 1 Nerve per use. A decent crimes guide can be found [here](https://www.torn.com/forums.php#/p=threads&f=61&t=16120850)
+Nerve enables you to commit crimes, you should never let it fill up to max, keep doing crimes whenever you can. drink beers to gain nerve they are incredibly cheap and give 1 Nerve per use. A decent **crimes 1.0** guide can be found [here](https://www.torn.com/forums.php#/p=threads&f=61&t=16120850)
 
 ### Happiness
 
@@ -148,6 +148,8 @@ DrVoid has a good education guide [here](https://www.torn.com/forums.php#/p=thre
 Crimes use up Nerve which regenerates 1 per 5 minutes, so keep doing as many as you can every bit adds up start with the small easy ones then slowly move up. You can also Drink Beer which is very cheap and can be bought from City -> [Bits N Bobs](https://www.torn.com/shops.php?step=bitsnbobs), If they run out you can pay a bit more to buy them from [Item Market](https://www.torn.com/imarket.php#/p=market&cat=alcohol)
 
 Getting jailed for fails used to be a lot more devastating in the past but now its [been changed](https://www.torn.com/forums.php#/p=threads&f=1&t=16191668&b=0&a=0&start=0&to=0) you still wouldn't want to fail them tho. Which is why I'm gonna list the safest path to take below according to me.
+
+**NOTE BELOW IS A CRIMES 1.0 GUIDE**
 
 Start with 2 Nerve crimes do total 50 of any of them these will barely fail.
 
