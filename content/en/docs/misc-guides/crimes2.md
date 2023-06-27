@@ -56,9 +56,17 @@ _- Some crimes have Unique Outcomes that can only ever be received once. Little 
 
 So now you might wonder, which crime you should be attempting?
 
-Due to crimes being time gated my personal suggestion is to attempt anything above 80%+ chance regularly and 65%+ if it has the unique stars or there's a lack of 80%+ crimes available. If all crimes have low success chance when you've logged in it might make sense to spam maybe 5 relatively easy ones so the nerve regerates and save up remaining of your nerve for later.
+Due to crimes being time gated my personal suggestion is to attempt anything above 80%+ chance regularly and 65%+ if it has the unique stars or there's a lack of 80%+ crimes available. If all crimes have low success chance when you've logged in it might make sense to spam maybe 5 relatively easy ones so the nerve regens and save up remaining of your nerve for later.
 
-## Search for cash
+## Crime chains
+
+_- By succeeding multiple times in a row, you'll slowly accumulate a hidden 'Crime Chain' bonus to crime skill and crime experience gains which transcends across all crimes. Failures will halve this bonus, while Critical Failures will zero it._
+
+-- chedburn from crimes 2.0 [announcement](https://www.torn.com/forums.php#/p=threads&f=1&t=16337792&b=0&a=0).
+
+So crime chains incentivizes doing high success rate crimes to build up crime chain and gain additional CE and CS
+
+## 01. Search for cash
 
 ![ search for cash sub crimes](https://i.oran.pw/images/rZr4r.png)
 
@@ -114,7 +122,7 @@ After level 50 you will find a 'Cementary Key' which is an item required for the
 
 Another weekly time gated crime that requires 'Cementary Key' item to access.
 
-It has Highest success rate during the weekend and lowest during weekdays between 9 and 17 TCT. What sets this crime apart from the rest is the low chance to rob the grave of the old loan shark Tomothy 'Tim' which earns you 100k+ screenshot below by [Pagey](https://www.torn.com/profiles.php?XID=2129946)
+It has Highest success rate during the weekend and lowest during weekdays between 9 and 17 TCT. What sets this crime apart from the rest is the low chance to rob the grave of the old loan shark Timothy 'Tim' which earns you 100k+ screenshot below by [Pagey](https://www.torn.com/profiles.php?XID=2129946)
 
 ![https://i.oran.pw/images/CfmK2.png](https://i.oran.pw/images/CfmK2.png)
 
@@ -130,4 +138,4 @@ Search the fountain also gives you different colored spray cans which are _proba
 
 ---
 
-Thats about it for now, more info will be added in the future as crimes are slowly released and more info is discovered in the [forums.](https://www.torn.com/forums.php#/p=threads&f=2&t=16337804&b=0&a=0). Feedback is appreciated please post any on our discord #feedback channel and we'll get to changing stuff here asap. Good Luck with crimes 2.0!
+Thats about it for now, more info will be added in the future as crimes are slowly released and more info is discovered in the [forums.](https://www.torn.com/forums.php#/p=threads&f=2&t=16337804&b=0&a=0). Feedback is appreciated please post on our discord #feedback channel and we'll get to changing stuff here asap. Good Luck with crimes 2.0!

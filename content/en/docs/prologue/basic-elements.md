@@ -53,7 +53,7 @@ Energy is a valuable resource, it can be used to attack (25 per) or trained in t
 
 ### Nerve
 
-Nerve enables you to commit crimes, you should never let it fill up to max, keep doing crimes whenever you can. drink beers to gain nerve they are incredibly cheap and give 1 Nerve per use. A decent **crimes 1.0** guide can be found [here](https://www.torn.com/forums.php#/p=threads&f=61&t=16120850)
+Nerve enables you to commit crimes, you should never let it fill up to max, keep doing crimes whenever you can. drink beers to gain nerve they are incredibly cheap and give 1 Nerve per use. A decent **crimes 1.0** guide can be found [here](https://www.torn.com/forums.php#/p=threads&f=61&t=16120850). Crimes 2.0 overview can be found [here](../../misc-guides/crimes2).
 
 ### Happiness
 
