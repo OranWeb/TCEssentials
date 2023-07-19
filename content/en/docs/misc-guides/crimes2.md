@@ -25,7 +25,7 @@ Older players are presented with the choice to stay with Crimes 1.0 or migrate t
 
 some things to keep in mind before you press the shiny button in the onboarding screen:
 
-1. There is only a single crime available right now, with newer crimes being released every 2 to 3 weeks.
+1. There are few crime available right now, with newer crimes being released every 2 to 3 weeks.
 2. Arson warehouse from Crimes 1.0 is STILL the best way to gain the most amount of CE.
 3. There's no guaranteed Hosp result crime in 2.0 as of yet. So do not migrate if you need that particular crime.
 4. Crimes 2.0 is super fun and has unique outcomes which alone makes it worth Migrating. A lot of attention to details have been given by the developers to every single aspect of crimes 2.0.
@@ -36,7 +36,7 @@ So the takeaway, If you want to farm CE with arsons or self hosp with Kidnap Cop
 ## Crimes 2.0 User Interface
 
 The UI of crimes 2.0 is quite simple, there's a crime and then sub crimes inside it, for example search for cash is the crime and inside search for cash there's
-Search the Trash or Search the Subway as subcrimes.
+Search the Trash or Search the Subway as sub crimes.
 
 ![success percent displayed in tooltip](https://i.oran.pw/images/VW32k.png)
 
@@ -134,8 +134,48 @@ It has the lowest success rate during the first week gradually decreasing during
 
 ![](https://i.oran.pw/images/dD73h.png)
 
-Search the fountain also gives you different colored spray cans which are _probably_ usable for future crimes (vandalism)
+Search the fountain also gives you different colored spray cans which are _probably_ usable for future crimes (graffiti)
+
+Hitting level 100 for this crime requires anywhere from 3000 to 4400 successes.
 
 ---
 
-Thats about it for now, more info will be added in the future as crimes are slowly released and more info is discovered in the [forums.](https://www.torn.com/forums.php#/p=threads&f=2&t=16337804&b=0&a=0). Feedback is appreciated please post on our discord #feedback channel and we'll get to changing stuff here asap. Good Luck with crimes 2.0!
+## 02. Bootlegging
+
+Bootlegging is the 2nd main crime, It has 3 sub crimes - Copy DVDs, Sell DVDs and Online Store
+
+![](https://i.oran.pw/images/VK4Xi.png)
+
+High-Speed Drive is the enhancer for this crime
+
+![](https://i.oran.pw/images/3ZiCP.png)
+
+There are 2 requirements for the first sub crime - Personal Computer and Blank DVDs which can be bought from [Super Store](https://www.torn.com/shops.php?step=super) or [Item Market](https://www.torn.com/imarket.php)
+
+### Copy DVDs
+
+There are 8 Genres to choose from, some are more popular than others - for example Action and Fantasy seem to be selling better than Horror, Romance and Sci-Fi (your mileage may vary). It costs 2 Nerve to copy DVDs, it will also take some time to produce them (which can be reduced by the enhancer) it gives you a small amount of Crime Skill. You will need to build up a small stock of DVDs and then sell them using the 2nd crime. There is a chance to lose the Enhancer or the personal computer due to critical fail.
+
+### Sell Counterfeit DVDs
+
+Sell Counterfeit DVDs consume copied DVDs, costs 5 nerve and give you a large amount of Crime Skill and also earn you cash, However critical fails can be devastating losing you a large amount of crime skill.
+
+### Online Store
+
+Third bootlegging sub crime is online store - It has a 3 requirements
+
+- PC/Laptop
+- Web Design and Development from [Computer Science](https://www.torn.com/education.php#/step=view_cat&cat=6&id=23)
+- Level 50 bootlegging crime skill
+
+Setting up online store costs 10 nerve per attempt and it adds to the progress, you will have to do this crime 20 to 30 times successfully to setup online store. Once online store is setup it slowly starts passively selling DVDs to customers, as time progresses it ramps up. There is a merit for 10k online store customers.
+
+After launching online store the 3rd sub crime changes to 'collect funds' which costs 1 nerve and gives negligible amount of crime skill.
+
+If you're looking to skip the devastating critical fails of sell counterfeit DVDs you can choose to entirely skip it, rack up uniques and then do them if you want to later after getting to level 100. Start by building up a large stock while simultainously getting the education for the crime, then as soon as you hit level 50 crime skill + education done, work towards unlocking the store.
+
+Hitting level 100 for this crime requires anywhere from 3500 to 5000 successes (more or less depending on whether you've done selling DVDs sub crime and critical fails)
+
+---
+
+Thats about it for now, more info will be added in the future as crimes are slowly released and more info is discovered in the [forums.](https://www.torn.com/forums.php#/p=threads&f=2&t=16337804&b=0&a=0). Feedback is appreciated please post on our discord #feedback channel and we'll get to changing stuff here ASAP. Good Luck with crimes 2.0!
