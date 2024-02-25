@@ -19,7 +19,7 @@ If you're a faction leader that takes in newer players, please send me a chat or
 
 This guide was originally posted on the forums, and I had allowed faction leaders to write whatever they wanted and that ended up being misused. Therefore, this time I will be writing for them based on my chat with the leaders and my personal experience of judging the faction members currently inside. The list is arranged in order of addition.
 
-## [NPO - Valour](https://www.torn.com/factions.php?step=profile&ID=14052#/)
+## [NPO - Valour](https://www.torn.com/factions.php?step=profile&ID=26885#/)
 
 ![](https://factionimages.torn.com/00b094a5-9b59-406d-925b-ebc0d73e1ffe-26885.png)
 
