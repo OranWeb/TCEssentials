@@ -37,11 +37,11 @@ I have a money making guide that you can read [here](../../misc-guides/money-mak
 
 Every action in torn results in gain of experience most of them give very little amount but Attacking and leaving players in the streets give the most, the experience gained is also based on level of the opponent so If you attack and leave a level 100 you'd gain much more compared to leaving a random level 1 noob.
 
-It is Recommended that you hit level 15 as soon as possible to unlock Travelling which enables you to earn a lot of money. The next page is a level 15 guide.
+It is Recommended that you hit level 15 as soon as possible to unlock Travelling which enables you to earn a lot of money. The next page is a [level 15 guide](../../misc-guides/money-making).
 
 ### Points
 
-Points can be used to purchase energy/nerve refills (usable once per day) and also to unlock Bazaar, Stock Market etc permanently. You can also buy up points
+Points can be used to purchase energy/nerve refills (usable once per day) and also to unlock Bazaar, Stock Market and much more permanently. Points are purchasable from the [points market](https://torn.com/pmarket.php)
 
 ### Merits
 
@@ -53,15 +53,17 @@ Energy is a valuable resource, it can be used to attack (25 per) or trained in t
 
 ### Nerve
 
-Nerve enables you to commit crimes, you should never let it fill up to max, keep doing crimes whenever you can. drink beers to gain nerve they are incredibly cheap and give 1 Nerve per use. A decent **crimes 1.0** guide can be found [here](https://www.torn.com/forums.php#/p=threads&f=61&t=16120850). Crimes 2.0 overview can be found [here](../../misc-guides/crimes2).
+Nerve enables you to commit crimes, you should never let it fill up to max, keep doing crimes whenever you can. drink beers to gain nerve they are incredibly cheap and give 1 Nerve per use. Crimes 2.0 overview can be found [here](../../misc-guides/crimes2).
 
 ### Happiness
 
 Happiness should not be ignored the more 'Happy' you have the more stats that you gain from training in the gym. You can gain happiness from eating candies and increase the 'Happy' limit by moving into a better property.
 
+{{< alert icon="👉" text="As it turns out most people are unaware that you can replenish your happiness by travelling to switzerland (after hitting level 15) and rehabbing, a single rehab will suffice that will restore your happiness to the max." />}}
+
 ### Life
 
-Life is considered as the 5th stat, Life depends on your level, it regenerates by 5% of total life every 5mins You can also regenrate it by using Medical Items like Small First Aid Kit, First Aid Kit, Morphines and a compatible blood bag.
+Life is considered as the 5th stat, Life depends on your level, it regenerates by 5% of total life every 5mins You can also regenrate it by using Medical Items like Small First Aid Kit, First Aid Kit, Morphines or a compatible blood bag.
 
 ### Chain
 
@@ -71,9 +73,9 @@ You will need to do 10 hits in 5 minutes to start a chain once the chain is star
 
 ### Mail Events & Awards
 
-Torn is a social game, while there's a chat system there's also a mail system you can use to mail other people. Chats are in their current form is kind of unreliable filled with some bugs so mail is a solid alternative if you do not want the person to miss your message. Factions also send newsletters (they may contain updates or instructions) via mail.
+Torn is a social game, while there's a chat system there's also a mail system you can use to mail other people. Chats in their current form are kind of unreliable filled with some bugs so mail is a solid alternative if you do not want the person to miss your message. Factions also send newsletters (they may contain updates or instructions) via mail.
 
-Events display everything that happens to you in chronological order, there is a max limit of 2500 events after which they are automatically deleted (so use the save option to save anything important)
+Events display everything that happens to you in chronological order, there used to be a 2,500 limit on events but now they are just saved forever.
 
 The awards button take you to the awards page that display Honorbars, Medals and Merits allocation. play around with different honorbars choose the one you like, other players can see the equipped honorbar only, while Medals are public information
 
@@ -83,9 +85,9 @@ The awards button take you to the awards page that display Honorbars, Medals and
 
 ### Home
 
-You can think of home like an overview of everything thats happening with your account, It will display your working stats, battle stats, your criminal records, latest attacks, weapons you have equipped etc..
+You can think of home like an overview of everything thats happening with your account, Its a nice dashboard that will display your working stats, Skills, battle stats, your criminal records, latest attacks, weapons you have equipped and much more.
 
-You can also view all perks your faction along with all perks you currently have activated under Personal Perks section
+You can also view all perks your faction along with all perks you currently have activated under Personal Perks section.
 
 ### Items / Inventory
 
@@ -105,7 +107,7 @@ Ammo Locker can also be accessed on the items page, make sure head over there wh
 
 There are 2 views available for the City, Quick Links and City Map
 
-Items spawn on the City Map, they stay there indefinitely till they are claimed if your lucky you might find big ticket items like Stat Enhancers, Cesiums or Hazmat Suits. Check their value in the Item Market and sell them to a trader, please do not use Stat Enhancers (dumbbells, boxing gloves, skateboard, parachutes) you'd be essentially throwing away a $450.000.000 worth of item.
+Items spawn on the City Map, they stay there indefinitely till they are claimed if your lucky you might find big ticket items like Stat Enhancers, Cesiums or Hazmat Suits. Check their value in the Item Market and sell them to a trader, **Please do not use Stat Enhancers (dumbbells, boxing gloves, skateboard, parachutes) you'd be essentially throwing away a $450.000.000 item.**
 
 ![](essentials/tc-city-find.png)
 
@@ -120,6 +122,8 @@ There are 2 paths you can take with Job, you can either work with the city jobs/
 City jobs pay really less, but they give you work stats, a bunch of merits are also available to be unlocked in a city job and they also are a stepping stone to unlocking passives like reviving, spying etc and then moving over to a company once you have good work stats
 
 Directors may message you to join their Companies, well congrats on getting an invite but dont forget to enquire about the pay and specials before you join them. If you like what they offer apply to their company, otherwise you can also post on [This Thread](https://www.torn.com/forums.php?p=threads&f=46&t=15907925&b=0&a=0) to receive offers from directors.
+
+I said 2 options but there's the third option to run a company its not really gucci, the management of company itself is a PIA and can quickly turn into a money sink if you don't know what you're doing, before you even start a company its recommended that you buy both the company stocks TGP and TCP and also complete Business course. There's always the gratification of building up a company yourself... the bootstraps yada yada thingy but generally its not worth it you'd be better off just buying an existing company and running it.
 
 ### Gym
 
@@ -147,33 +151,9 @@ DrVoid has a good education guide [here](https://www.torn.com/forums.php#/p=thre
 
 Crimes use up Nerve which regenerates 1 per 5 minutes, so keep doing as many as you can every bit adds up start with the small easy ones then slowly move up. You can also Drink Beer which is very cheap and can be bought from City -> [Bits N Bobs](https://www.torn.com/shops.php?step=bitsnbobs), If they run out you can pay a bit more to buy them from [Item Market](https://www.torn.com/imarket.php#/p=market&cat=alcohol)
 
-Getting jailed for fails used to be a lot more devastating in the past but now its [been changed](https://www.torn.com/forums.php#/p=threads&f=1&t=16191668&b=0&a=0&start=0&to=0) you still wouldn't want to fail them tho. Which is why I'm gonna list the safest path to take below according to me.
+Getting jailed for fails used to be a lot more devastating in the past but now its [been changed](https://www.torn.com/forums.php#/p=threads&f=1&t=16191668&b=0&a=0&start=0&to=0) you still wouldn't want to fail them tho.
 
-**NOTE BELOW IS A CRIMES 1.0 GUIDE**
-
-Start with 2 Nerve crimes do total 50 of any of them these will barely fail.
-
-Do 200 of 3 nerve crimes focus on Thriller and Sci-Fi If you consistently fail these then do another 25 of 2 nerve crimes
-
-You are now ready to move onto 4 Nerve Crimes, Do 2500 of Clothing -> Jackets, these will generally never fail and are decent to build Crime Experience and gain a bunch of 'theft' merits & awards
-
-You can ofcourse move to 5 Nerve crimes a lot earlier do 60 of each except lawyer.
-
-You can skip the 6 Nerve ones, start doing 7 Nerve Armed Robbery -> Through Robbery stick to doing these, atleast 2500 of them.
-
-At this point you need to put some merits into crime success and also look into joining a faction with good criminality tree because the next crime Stealth viruses will have a lot of blues, ofcourse its a safe crime meaning you won't fail it but also you won't succeed.
-
-Also buy the Crime Enhancer [Ergonomic Keyboard](https://www.torn.com/imarket.php#/p=market&cat=enhancers) it is worth every penny.
-
-Do atleast 1000 of Stealth Viruses and also work on getting your drivers license (this is different from racing license you can buy with points) from Education, General -> Introduction to General which takes 7 days and then Driving License which will take 14 days (without any perks)
-
-Once you complete the above educations try doing some arson warehouses (this will require a gas can item you can buy from the item market) and see if they succeed if they consistently do then Congrats you have now unlocked the end game crime otherwise do bunch more of stealth viruses or throrough robbery (if stealth fails a lot)
-
-While it is very expensive buying the Enhancer "Wind Proof Lighter" is highly recommended, If your lucky you can also find it in the city.
-
-Stick to Arsons till you hit 60 Natural Nerve Bar then you can work on Crimes Merits or do the 18 Nerve Hacking Crime also look into becoming a regular member of a Political Assassination Organized Crime Team in your faction If there are a bunch of megazords with large amount of CE then they may even be able to carry you around 50 - 55NNB.
-
-Something to note is Arsons do result in a failure - Hospitalizations not jail, Hospitalization of this particular crime results in very minimal or no loss of crime CE at all so it is a good idea to stock up some meds when you do them.
+You can read crimes 2.0 beta guide [here](../../misc-guides/crimes2)
 
 ### Missions
 
@@ -208,7 +188,7 @@ Blood bags remove 2 hours.
 
 Medical Items also restore life, Small first aid kits restores 5%, First aid kits restores 10%, Morphines restores 15%, and finally blood bags restores 30% of life, this is why I'd highly recommend you do the Intravenous Therapy course.
 
-Using wrong/incompatible blood bag allows you to self hosp, basically hide in the hospital for upto 1 and half hour at a time. This is the cheapest method to do so.
+Using wrong/incompatible blood bag allows you to self hosp, basically hide in the hospital for upto 1 and half hour at a time. This is the cheapest method to do so. Players with AB+ blood type previously were unable to self hosp, but now they can use Ipecaf syrup to self hosp.
 
 blood bags usage guide
 ![](https://i.oran.pw/images/cu9KW.gif)
