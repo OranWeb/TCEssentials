@@ -52,9 +52,7 @@ Odd jobs at start might feel hard but once you get to the hang of it you can tur
 
 #### Advertising
 
-You can find people hiring advertisers in the trade chat, simply post "Advertising 1.25M per hour" or contact any of the people spamming in trade chat and politely ask them if they need advertisers
-
-They may pay you based on hourly or per post so make sure you clear that up before you start advertising and also do not break any of the chat rules that can get you chat banned. Keep the advertisements strictly to trade chat never spam them anywhere else.
+Advertising for others (traders mostly) used to be a viable route to print money (1.5m/hour on the usual) but then for the better torn decided to [kill it](https://www.torn.com/forums.php#/p=threads&f=1&t=16392536&b=0&a=0).
 
 #### Company Employee Finding
 
@@ -81,8 +79,6 @@ d. Advance Search
 Use advance search filters (only available to people with donator status) to find employees that are not in a company, chat them up politely and ask them what their work stats are at and that you'd require X amount of work stats for a job at Y company with Z stars.
 
 {{< alert icon="👉" text="Advance search can be the most efficient way to find employees, play around with the options and see what fits best"  />}}
-
-**There are also other odd jobs like sending marketing mails for a trader, or bumping threads etc I am not going to go indepth on them since they are simple and straight forward enough as is.**
 
 ### Community Events
 
