@@ -76,9 +76,3 @@ We are Rising or WAR was one of the first faction to be run for new player devel
 ![](https://factionimages.torn.com/25e4cc45-88a6-7254-2640127.gif)
 
 NNGO Deja 2 is a warring faction that does chains or wars every 2 weeks. They payout war rewards 90% split with members and 10% to faction, assists are counted so new players can earn money from war participation. Training requirements is 400 energy spent in gym per day, Weapon and armors are provided, Xanax/Points provided for war use they also have an active discord community with Giveaways and Social events. Faction provides guidance but you need to be active and follow Instructions. one on one mentoring is also provided if requested.
-
-## [Leviathan Initiative](https://www.torn.com/factions.php?step=profile&ID=8606)
-
-![](https://factionimages.torn.com/acdc954e-1dec-6306-2696321.png)
-
-Leviathan Initiative is a training + chaining hybrid faction that pride themselves in being a family, who work together, genuinely care about each other, and have fun while they play, all while warring and kicking ass. They are looking for like-minded individuals who want to War, Chain, Grow, and have fun while doing it. LVI is not a casual style faction, so if that is what you are looking for, this may not be the right one for you. They are accepting both new and returning players.
