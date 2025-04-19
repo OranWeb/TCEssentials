@@ -13,7 +13,7 @@ weight: 646
 toc: true
 ---
 
-The Easter Egg Hunt event runs from noon on the 6th to the 12th of April every year. There have been a few changes, such as the fact that eggs no longer disappear from the page and can be picked up at any time during the event. Additionally, the eggs have been made 2x bigger.
+You can find the easter week in the calendar, basically it runs after good friday, my dumbass had a date listed here cause you know... I forgot that the dates change every year. There have been a few changes, such as the fact that eggs no longer disappear from the page and can be picked up at any time during the event. Additionally, the eggs have been made 2x bigger.
 
 If that is not enough, you can install the two scripts linked below and collect the eggs in easy mode. you will need a script manager such as [Tampermonkey](https://tampermonkey.net/)
 
@@ -27,7 +27,7 @@ Both scripts are safe to use and have been confirmed not to cause any negative e
 
 ## How Often should I run through pages
 
-once every 12 or 24 hours and a final run between 11th Noon and 12th Noon since eggs don't spawn on the last day of the event this day is for pickup only.
+once every 12 or 24 hours and a final run before the event ends since eggs don't spawn on the last day of the event this day is for pickup only.
 
 ## How do I use scripts on Mobile Devices
 
