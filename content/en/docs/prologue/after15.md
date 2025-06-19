@@ -48,7 +48,7 @@ Most people forget to hire a pilot its an easy mistake to make, Pilot is not par
 ### Flower/Plushie Running
 
 1. Head over to [City](https://www.torn.com/city.php) --> [Travel Agency](https://www.torn.com/travelagency.php)
-2. Check profit tracker there are some of those on the forums but I use and recommend [This One](https://eski786.pythonanywhere.com/flyguide) because it tracks only flowers/plushies and temporary items which are generally profitable.
+2. Check profit tracker there are some of those on the forums as well as two options including one provided by yata and arsonware that are linked below.
 3. Check Abroad stock because the shops abroad will RUN OUT OF STOCK, make sure they have plenty and wouldn't run out by the time you land there. these are 2 websites I recommend
 
 > [YATA Abroad stock](https://yata.yt/bazaar/abroad/)
