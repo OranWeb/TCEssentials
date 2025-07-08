@@ -47,11 +47,11 @@ WTF Medical will accept active revivers, If healing/support is your playstyle th
 
 WTF Healers will accept active revivers, If healing/support is your playstyle then this faction is for you. you must still be willing to participate in wars/chains.
 
-## [Toxic Reign](https://www.torn.com/factions.php?step=profile&ID=40624)
+## [Toxic Spawn](https://www.torn.com/factions.php?step=profile&ID=50568)
 
 ![](https://factionimages.torn.com/a6d89f38-1297-7b25-2034675.gif)
 
-Toxic Reign provides members with guides, armor, weapons, and friendly chat mentorship. They will require you to be active and willing to follow Instructions.
+Toxic Spawn provides members with guides, armor, weapons, and friendly chat mentorship. They will require you to be active and willing to follow Instructions.
 
 ## [New Sith Order](https://www.torn.com/factions.php?step=profile&ID=12894#/)
 
